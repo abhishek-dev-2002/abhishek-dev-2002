@@ -76,7 +76,7 @@ to ensure strong data separation, security, and predictable performance across t
 ## 🏆 Achievements
 
 - ⭐ **4★ CodeChef** (Max rating: 1873)  
-- 🧠 **LeetCode** (Rating: **1699**, 1000+ problems solved) — [Leetcode](https://leetcode.com/u/abhishek2552/)  
+- 🧠 **LeetCode** (Rating: **1699**) — [Leetcode](https://leetcode.com/u/abhishek2552/)  
 - 🎓 B.Tech from **IIT (BHU) Varanasi** (2019–2023, CGPA: 8.34)
 
 ---
