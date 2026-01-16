@@ -5,6 +5,8 @@
 I’m a backend engineer with 2.5+ years of experience building **scalable, production-grade systems**.
 I specialize in **distributed systems, event-driven architectures, and cloud-native microservices**.
 
+📄 **Resume:** [Download PDF](https://drive.google.com/file/d/1CyIctTTOWxVhY2wG8nbrrleFyMewph0D/view)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -34,16 +36,31 @@ I specialize in **distributed systems, event-driven architectures, and cloud-nat
 ## 🚀 Featured Projects
 
 ### 🔹 Distributed Notification System
-Kafka-based system for real-time and bulk notifications  
-**Tech:** Go, Kafka, Redis  
-👉 https://github.com/abhishek-dev-2002/distributed-notification-system
+Designed a Kafka-based distributed notification system supporting **real-time and bulk**
+delivery for push, email, SMS, and in-app notifications.
+
+**Design focus:**
+- Event-driven architecture using Kafka  
+- Horizontal scaling via partitioned consumers  
+- Retry handling and fault tolerance  
+- Idempotent processing to avoid duplicate notifications  
+- Observability using logs and metrics  
+
+*(Design-focused; code not public)*
 
 ---
 
-### 🔹 Multi-Tenant Microservices Platform
-SaaS backend with database-per-tenant isolation  
-**Tech:** Go, MongoDB, Redis  
-👉 https://github.com/abhishek-dev-2002/multi-tenant-microservices
+### 🔹 Multi-Tenant Backend Architecture
+Designed a scalable backend architecture with **database-per-tenant isolation**
+to ensure strong data separation, security, and predictable performance across tenants.
+
+**Design focus:**
+- Tenant-level isolation using separate MongoDB databases  
+- Dedicated Redis instances for caching and rate limiting  
+- Stateless backend services for horizontal scalability  
+- Clear trade-offs between isolation, cost, and operational complexity  
+
+*(Architecture & design work based on production experience)*
 
 ---
 
@@ -57,8 +74,9 @@ High-performance rate limiting using interceptors
 ## 🏆 Achievements
 
 - ⭐ 4★ CodeChef (Max rating: 1873)
+- 🧠 **LeetCode** (Rating: **1699**, 1000+ problems solved) — [Leetcode](https://leetcode.com/u/abhishek2552/)
 - 🧠 Solved 1000+ DSA problems (LeetCode + GFG)
-- 🎓 B.Tech from IIT (BHU) Varanasi (CGPA: 8.34)
+- 🎓 B.Tech from **IIT (BHU) Varanasi** (2019–2023, CGPA: 8.34)
 
 ---
 
