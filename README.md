@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Maurya
 
-**Backend Software Engineer | Distributed Systems | Golang | Kafka | Cloud**
+**Backend Software Engineer | Distributed Systems | AWA | Kafka | Cloud-Native Microservices**
 
 I’m a backend engineer with 2.5+ years of experience building **scalable, production-grade systems**.
 I specialize in **distributed systems, event-driven architectures, and cloud-native microservices**.
@@ -9,11 +9,11 @@ I specialize in **distributed systems, event-driven architectures, and cloud-nat
 
 ## 🛠️ Tech Stack
 
-**Languages:** Golang, Python, C++, Node.js  
-**Backend:** REST, gRPC, MongoDB, Redis  
-**Messaging:** Kafka, RabbitMQ  
-**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
-**Observability:** Centralized Logging, Tracing, Metrics  
+**Languages:** Golang, Python, Java, C++, Node.js  
+**Backend & APIs:** RESTful services, gRPC, GraphQL; MongoDB, Redis  
+**Eventing & Streaming:** Kafka, RabbitMQ, AWS Kinesis  
+**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD pipelines  
+**Observability:** Centralized logging, distributed tracing, and metrics using Grafana and Elastic APM
 
 ---
 
