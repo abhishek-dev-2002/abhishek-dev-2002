@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Abhishek Maurya
 
-**Backend Software Engineer | Distributed Systems | AWA | Kafka | Cloud-Native Microservices**
+**Backend Software Engineer | Distributed Systems | AWS | Kafka | Cloud-Native Microservices**
 
-I’m a backend engineer with 2.5+ years of experience building **scalable, production-grade systems**.
-I specialize in **distributed systems, event-driven architectures, and cloud-native microservices**.
+I’m a Backend Software Engineer with 2.5+ years of experience building **scalable,
+production-grade systems**. I specialize in **distributed systems, event-driven
+architectures, and cloud-native microservices**.
 
 📄 **Resume:** [Download PDF](https://drive.google.com/file/d/1CyIctTTOWxVhY2wG8nbrrleFyMewph0D/view)
 
@@ -24,16 +25,24 @@ I specialize in **distributed systems, event-driven architectures, and cloud-nat
 ### **Software Engineer – Panasonic Life Solutions India**
 📍 Bangalore | 🗓️ June 2023 – Present
 
-- Designed scalable Golang microservices handling high-throughput traffic
-- Built **multi-tenant backend architecture** with DB-level isolation
-- Migrated data pipelines from Kinesis to Kafka, improving reliability
-- Architected notification system delivering **1M+ events in <30 minutes**
-- Reduced API latency by **~40%** using Go concurrency
+- Designed scalable Golang microservices handling high-throughput traffic  
+- Built **multi-tenant backend architecture** with DB-level isolation  
+- Migrated data pipelines from Kinesis to Kafka, improving reliability  
+- Architected notification system delivering **1M+ events in <30 minutes**  
+- Reduced API latency by **~40%** using Go concurrency  
 - Implemented observability (logs, traces) reducing MTTR by **60%**
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🔹 gRPC API Rate Limiter
+Developed a gRPC API rate limiter in Go with Redis and Protocol Buffers, using fixed-window counters and
+interceptors to handle high-throughput requests while preventing API overuse and ensuring fair resource distribution.
+**Tech:** Go, gRPC, Protobuf, Redis  
+👉 https://github.com/abhishek-dev-2002/grpc-rate-limiter
+
+---
 
 ### 🔹 Distributed Notification System
 Designed a Kafka-based distributed notification system supporting **real-time and bulk**
@@ -64,23 +73,15 @@ to ensure strong data separation, security, and predictable performance across t
 
 ---
 
-### 🔹 gRPC API Rate Limiter
-High-performance rate limiting using interceptors  
-**Tech:** Go, gRPC, Redis  
-👉 https://github.com/abhishek-dev-2002/grpc-rate-limiter
-
----
-
 ## 🏆 Achievements
 
-- ⭐ 4★ CodeChef (Max rating: 1873)
-- 🧠 **LeetCode** (Rating: **1699**, 1000+ problems solved) — [Leetcode](https://leetcode.com/u/abhishek2552/)
-- 🧠 Solved 1000+ DSA problems (LeetCode + GFG)
+- ⭐ **4★ CodeChef** (Max rating: 1873)  
+- 🧠 **LeetCode** (Rating: **1699**, 1000+ problems solved) — [Leetcode](https://leetcode.com/u/abhishek2552/)  
 - 🎓 B.Tech from **IIT (BHU) Varanasi** (2019–2023, CGPA: 8.34)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: abhishekmaurya2552@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/abhishek-maurya-dev
+- 📧 Email: abhishekmaurya2552@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/abhishek-maurya-dev  
