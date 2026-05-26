@@ -2,7 +2,7 @@
 
 **Backend Software Engineer | Distributed Systems | AWS | Kafka | Cloud-Native Microservices**
 
-I’m a Backend Software Engineer with 2.5+ years of experience building **scalable,
+I’m a Backend Software Engineer with 3+ years of experience building **scalable,
 production-grade systems**. I specialize in **distributed systems, event-driven
 architectures, and cloud-native microservices**.
 
@@ -55,7 +55,6 @@ delivery for push, email, SMS, and in-app notifications.
 - Idempotent processing to avoid duplicate notifications  
 - Observability using logs and metrics  
 
-*(Design-focused; code not public)*
 
 ---
 
